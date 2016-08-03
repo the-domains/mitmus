@@ -1,0 +1,14 @@
+layout_spectrum: 0.6346189910545945
+typography_spectrum: 0.3227118893992156
+color:
+  brandStrength: 0.6021847212687135
+  lightness: 0.2652903404086828
+  saturation: 0.3318642037920654
+  rhythmicContrast: 0.5701510848011822
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Mitmus
