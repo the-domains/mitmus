@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[No more tears]]></title>
         <description><![CDATA[No more tears]]></description>
-        <link>https://thegrid.ai/mitmus/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 15:02:23 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/mitmus/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df3e83-110b-4d1a-b734-74168599b7b0.jpg">]]></description>
-            <link>https://thegrid.ai/mitmus/c3fde3d9-8745-4670-9ed6-c6a495eeb067/index.html</link>
-            <guid isPermaLink="false">c3fde3d9-8745-4670-9ed6-c6a495eeb067</guid>
-            <pubDate>Wed, 03 Aug 2016 15:02:20 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 03 Aug 2016 15:02:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d78f24d-f621-4b19-af14-08bc20fee033.jpg">]]></description>
