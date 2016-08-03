@@ -1,4 +1,3 @@
-layout_spectrum: 0.6346189910545945
 typography_spectrum: 0.3227118893992156
 color:
   brandStrength: 0.6021847212687135
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6346189910545945
 name: Mitmus
 title: No more tears
+description: Oh my god it's the funky shit!
