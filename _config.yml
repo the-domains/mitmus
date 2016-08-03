@@ -1,16 +1,16 @@
-typography_spectrum: 0.3227118893992156
+typography_spectrum: 0.762563904048875
 color:
-  brandStrength: 0.6021847212687135
-  lightness: 0.2652903404086828
-  saturation: 0.3318642037920654
-  rhythmicContrast: 0.5701510848011822
+  brandStrength: 0.14775014482438564
+  lightness: 0.8825963661074638
+  saturation: 0.023273620987311006
+  rhythmicContrast: 0.7946676088031381
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.6346189910545945
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+layout_spectrum: 0.8262284533120692
 name: Mitmus
 title: No more tears
 description: Oh my god it's the funky shit!
